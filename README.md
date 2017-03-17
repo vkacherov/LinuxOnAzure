@@ -1,6 +1,10 @@
-# LinuxOnAzure
+# Linux On Azure Workshop
+This is workshop is an introduction to Linux capabilities on the Microsoft Azure platform. 
 
-## Azure Setup:  ##
+## Resources ##
+* [Introduction to Linux on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-linux-intro-on-azure)
+
+## Lab Azure Setup:  ##
 This will setup cmd line access to Azure and works on OSX, Linux, even Windows....
 
 * Setup Step One 	- [Install Azure CLI](Setup/xplat-cli-install.md)
