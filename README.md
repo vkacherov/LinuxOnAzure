@@ -3,6 +3,7 @@ This is workshop is an introduction to Linux capabilities on the Microsoft Azure
 
 ## Resources ##
 * [Introduction to Linux on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-linux-intro-on-azure)
+* [Installing Bash on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 
 ## Lab Azure Setup:  ##
 This will setup cmd line access to Azure and works on OSX, Linux, even Windows....
