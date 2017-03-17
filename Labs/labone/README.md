@@ -1,5 +1,5 @@
 # A Very Simple Deployment of a Linux VM #
-Let's set the stage, we want to deploy a VM into Azure. This VM will be a basic install of Ubuntu 14.04 without docker. 
+Let's set the stage, we want to deploy a VM into Azure. This VM will be a basic install of Ubuntu 14.04. 
 
 1. Browse the [Azure Quick Start Template Repo](https://github.com/Azure/azure-quickstart-templates)
 	1. Yea there is a lot there...
