@@ -23,7 +23,11 @@ In this lab we'll deploy a VM using an ARM Template. In this template is new res
           }
         }
 
-## Deploy a VM Running Docker
+## Deploy a VM Running OMS
+Have a look at the [201-oms-extension-ubuntu-vm](https://github.com/Azure/azure-quickstart-templates/tree/master/201-oms-extension-ubuntu-vm) folder.
+        1. There is a azuredeploy.json file. It descibes the resources we want to create. It also has parameters for things like username and password.
+        2. There is a azuredeploy.parameters.json file that contains the parameters to pass to the template. Customers use multiple param files to create different environments like dev, test, prod. **We will not use this for the lab.**
+
 **Create a resource group from the Azure-CLI:**
 
     azure group create {RESOURCE GROUP NAME} eastus
