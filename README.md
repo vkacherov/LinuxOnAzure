@@ -18,7 +18,7 @@ This lab will get you familiar with using the Azure CLI for deploying resources 
 * [Deploy a simple Linux VM using the Quick Start Templates and the Azure CLI](Labs/lab1/README.md)
  
 ## Lab Two: Run OMS on a Linux VM in Azure ##
-In this lab you will setup a Linux VM like in lab1, but it will have an OMS agent preinstalled and preconfigured.
+In this lab you will introduce the VM extensions, setup a Linux VM just like in lab1, but it will have an OMS agent pre-installed and pre-configured.
 
 * [Deploy a Linux OMS VM using the Quick Start Template](Labs/lab2/README.md)
 
