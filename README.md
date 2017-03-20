@@ -2,6 +2,7 @@
 This is workshop is an introduction to Linux capabilities on the Microsoft Azure platform. 
 
 ## Resources ##
+* [http://aka.ms/linuxazure](http://aka.ms/linuxazure)
 * [Introduction to Linux on Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-linux-intro-on-azure)
 * [Installing Bash on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 
